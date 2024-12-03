@@ -1,3 +1,3 @@
-The file GSC_A1 is the first problem in the assemsent, I did it in python because it would be illogical to do it in c++ given the ease of use python has with API calls.
+The file GSC_A1 is the first problem in the assessment, I did it in Python because it would be illogical to do it in C++ given the ease of use Python has with API calls. First, you can download the Python file and run it on your device, please be careful while using it I used the free version of the API so there are only a limited amount of calls to be made (400 total left).
 
-The file GSC_A2 contains the second problem done in C++ it is a quick sort algo implementation and then finding the median of the sorted array.
+The file GSC_A2 contains the second problem done in C++ it is a quick sort algo implementation and then finding the median of the sorted array. Download and run the file, and you will be prompted to input the array size and values.
